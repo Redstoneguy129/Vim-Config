@@ -1,1 +1,1 @@
-source /home/cameron/.config/nvim/vim-plug/plugins.vim
+source $Home/.config/nvim/vim-plug/plugins.vim
